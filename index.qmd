@@ -5,7 +5,7 @@ page-layout: full
 
 ::: {.banner}
 
-# Research Software Africa (RSA26)
+# Research Software Africa (RSAfrica26)
 
 ### The International Conference of Research Software in Africa
 
@@ -54,19 +54,19 @@ As part of this one joint organising committee, [we have created Equersa](https:
 
 ## Call for Presentations
 
-The Call for Presentations (CFP) for the Research Software Africa Conference 2026 (RSA26) will be announced soon. This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community.
+The Call for Presentations (CFP) for the Research Software Africa Conference 2026 (RSAfrica26) will be announced soon. This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community.
 
 For more details, please refer to the [Call for Presentations](call_for_presentations.qmd) document when available.
 
 ## Call for Workshops
 
-We invite proposals for workshops to be held on the first day of RSA26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.
+We invite proposals for workshops to be held on the first day of RSAfrica26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.
 
 ### Author Guidelines
 
-Thank you for your interest in contributing to the Research Software Africa Conference 2026 (RSA26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](author_guidelines.qmd) document.
+Thank you for your interest in contributing to the Research Software Africa Conference 2026 (RSAfrica26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](author_guidelines.qmd) document.
 
 
 <p style="font-size: small;color: grey">
-*The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+*The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
 </p>
