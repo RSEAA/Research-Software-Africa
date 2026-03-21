@@ -20,7 +20,7 @@ page-layout: full
 
 Do you want to learn what others are doing in research software in your domain and in other domains? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe you are the only person working on research software in your group?
 
-If so, you might want to join us for RSAfrica26, the new Research Software(RS)conference, from the **25th to the 28th of August 2026**. The theme for this year is still to be announced, and the hashtag will be #RSAfrica26.
+If so, you might want to join us for RSAfrica26, the new Research Software(RS)conference, from the **25th to the 28th of August 2026**. The theme for this year is "Research Software Without Borders", and the hashtag will be #RSAfrica26.
 
 ## Working with Research Software Asia Australia, Research Software Latinoamérica, and Equersa
 
@@ -28,7 +28,7 @@ We are thrilled to announce that we are working with two other conferences, the 
 
 We are creating a joint organising committee, while co-chairs for each conference still get to choose what happens at their event.
 
-As part of this one joint organising committee, [we have created Equersa](https://rseaa.org/equersa/), an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders. 
+As part of this one joint organising committee, [we have created Equersa](https://equersa.org), an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders. 
 
 
 ::: {style="margin-top: 3rem; padding: 2rem; background: #f8f8f8; border-radius: 8px;"}
@@ -54,7 +54,7 @@ As part of this one joint organising committee, [we have created Equersa](https:
 
 ## Call for Presentations
 
-The Call for Presentations (CFP) for the Research Software Africa Conference 2026 (RSAfrica26) will be announced soon. This year's theme, "Connecting with Community," focuses on fostering collaboration and engagement within the research software community.
+The Call for Presentations (CFP) for the Research Software Africa Conference 2026 (RSAfrica26) will be announced soon. This year's theme, "Research Software Without Borders" focuses on fostering collaboration and engagement within the research software community.
 
 For more details, please refer to the [Call for Presentations](call_for_presentations.qmd) document when available.
 
