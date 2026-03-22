@@ -77,13 +77,6 @@
     "text": "Key Dates (Tentative)\n\n\n\nItem\nOpen\nClose\n\n\n\n\nCall for Presentations\n30th March\n1st May\n\n\nCall for Accessibility Fellows\n14th May\n26th June\n\n\nNotification of presentations\n7th July\n—\n\n\nCall for Session chairs\nASAP\n7th August\n\n\nCall for Reviewers\nASAP\n15th May\n\n\nMicro-grants\n14th May\n10th July\n\n\nScholarships\n14th May\n14th August\n\n\nEarly Bird Registrations\n15th June\n10th July\n\n\nStandard Registrations\n11th July\n14th August\n\n\nConference\n25th August\n28th August (depending on conference)"
   },
   {
-    "objectID": "index.html#want-to-sign-up-for-updates",
-    "href": "index.html#want-to-sign-up-for-updates",
-    "title": "Research Software Africa (RSAfrica26)",
-    "section": "Want to sign up for updates?",
-    "text": "Want to sign up for updates?\n\nClick here to sign up for the RSAA mailing list\nClick here to follow us on LinkedIn\nClick here to follow us on Mastodon"
-  },
-  {
     "objectID": "index.html#call-for-presentations",
     "href": "index.html#call-for-presentations",
     "title": "Research Software Africa (RSAfrica26)",
@@ -95,7 +88,7 @@
     "href": "index.html#call-for-workshops",
     "title": "Research Software Africa (RSAfrica26)",
     "section": "Call for Workshops",
-    "text": "Call for Workshops\nWe invite proposals for workshops to be held on the first day of RSAfrica26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community."
+    "text": "Call for Workshops\nWe invite proposals for workshops to be held on the first day of RSAfrica26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.\n\nAuthor Guidelines\nThank you for your interest in contributing to the Research Software Africa Conference 2026 (RSAfrica26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the Author Guidelines document."
   },
   {
     "objectID": "index.html#accessibility-and-inclusivity",
@@ -112,18 +105,18 @@
     "text": "Organising Committee Members\n\nPeculiar C. Umeh\nMichael Umeokoli\nKim Martin\nMaryblessing Okoli\nRowland Mosbergen"
   },
   {
+    "objectID": "index.html#want-to-sign-up-for-updates",
+    "href": "index.html#want-to-sign-up-for-updates",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Want to sign up for updates?",
+    "text": "Want to sign up for updates?\n\nClick here to sign up for the RSAA mailing list\nClick here to follow us on LinkedIn\nClick here to follow us on Mastodon"
+  },
+  {
     "objectID": "index.html#code-of-conduct",
     "href": "index.html#code-of-conduct",
     "title": "Research Software Africa (RSAfrica26)",
     "section": "Code of Conduct",
     "text": "Code of Conduct\nThe Code of Conduct is designed to provide all participants with community participation guidelines."
-  },
-  {
-    "objectID": "index.html#what-is-a-research-software-engineer-rse",
-    "href": "index.html#what-is-a-research-software-engineer-rse",
-    "title": "Research Software Africa (RSAfrica26)",
-    "section": "What is a Research Software Engineer (RSE)?",
-    "text": "What is a Research Software Engineer (RSE)?\nResearch Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g - researchers and academics who code, - generalists who bring communities together across the research and technical domains, - people who help train researchers to improve their code on HPC and Cloud systems, and - software engineers who work in the research domain."
   },
   {
     "objectID": "index.html#contact-us",
@@ -144,7 +137,7 @@
     "href": "index.html#previous-rseaa-conferences",
     "title": "Research Software Africa (RSAfrica26)",
     "section": "Previous RSEAA conferences",
-    "text": "Previous RSEAA conferences\n\nClick here to view the 2025 conference.\nClick here to view the 2024 conference.\nClick here to view the 2023 conference.\nClick here to view the 2022 conference.\n\n\nAuthor Guidelines\nThank you for your interest in contributing to the Research Software Africa Conference 2026 (RSAfrica26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the Author Guidelines document.\n\nThe Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
+    "text": "Previous RSEAA conferences\n\nClick here to view the 2025 conference.\nClick here to view the 2024 conference.\nClick here to view the 2023 conference.\nClick here to view the 2022 conference.\n\n\nThe Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
   },
   {
     "objectID": "call_for_presentations.html",
