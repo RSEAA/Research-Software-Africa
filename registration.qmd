@@ -3,10 +3,10 @@ title: "Registration"
 ---
 
 ::: {style="font-size: 3rem; text-align: center;"}
-
+:::
 Welcome to the Research Software Africa 2026. 
 [Register here](https://forms.gle/Vd8yEZVxvzki8Ppc8) to get more information about the conference
 
-:::
+
 
 
