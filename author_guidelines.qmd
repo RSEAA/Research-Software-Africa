@@ -1,12 +1,12 @@
 ---
-title: "RSA26 Author Guidelines"
+title: "RSAfrica26 Author Guidelines"
 format: html
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-Thank you for your interest in contributing to the **Research Software Africa Conference 2026 (RSA26)**.
+Thank you for your interest in contributing to the **Research Software Africa Conference 2026 (RSAfrica26)**.
 To ensure a smooth submission and presentation experience, please follow the guidelines below.
 
 ## 1. Presentation Formats & Requirements
@@ -23,7 +23,7 @@ Each presentation should be **concise, engaging, and relevant to the conference 
 
 ## 2. Submission Guidelines
 
-Submissions must be made through the RSA26 online submission system by the submission deadline (TBA).
+Submissions must be made through the RSAfrica26 online submission system by the submission deadline (TBA).
 
 ### Submission Requirements
 
@@ -53,7 +53,7 @@ Presentation Guidelines
 
 -   Presenters should be prepared to **deliver their presentation live** in an **online format**.
 -   Sessions will be conducted via a virtual conference platform (details to be provided closer to the event).
--   Presenters should ensure their materials are accessible and **align with RSA26's commitment to digital accessibility**.
+-   Presenters should ensure their materials are accessible and **align with RSAfrica26's commitment to digital accessibility**.
 
 ### 4.2 Digital Accessibility Requirements
 
@@ -72,7 +72,7 @@ To ensure an inclusive experience, we recommend that all presenters:
 
 ## 6. Code of Conduct
 
-All presenters and attendees are expected to adhere to the **RSA26 Code of Conduct**, which promotes **a respectful, inclusive, and harassment-free environment**.
+All presenters and attendees are expected to adhere to the **RSAfrica26 Code of Conduct**, which promotes **a respectful, inclusive, and harassment-free environment**.
 
 ### Speakers should:
 
@@ -82,8 +82,8 @@ All presenters and attendees are expected to adhere to the **RSA26 Code of Condu
 
 ## 7. Contact Information
 
-For any questions or further assistance, please contact the **RSA26 Organizing Committee** at info\@rseaa.org.
+For any questions or further assistance, please contact the **RSAfrica26 Organizing Committee** at info\@rseaa.org.
 
-We look forward to your participation in **RSA26** and appreciate your contribution to building a stronger research software community!
+We look forward to your participation in **RSAfrica26** and appreciate your contribution to building a stronger research software community!
 
-For updates and additional details, visit: <https://rseaa.org/Research-Software-Africa/>.
+For updates and additional details, visit: <https://rseaa.org/RSAfrica26/>.
