@@ -1,10 +1,14 @@
 project:
   type: website
   render:
-    - index.qmd
-    - registration.qmd
-    - call_for_presentations.qmd
-    - author_guidelines.qmd
+    - en/index.qmd
+    - en/registration.qmd
+    - en/call_for_presentations.qmd
+    - en/author_guidelines.qmd
+    - fr/index.qmd
+    - fr/registration.qmd
+    - fr/call_for_presentations.qmd
+    - fr/author_guidelines.qmd
   output-dir: _site
 
 
@@ -15,9 +19,14 @@ website:
     foreground: "#FFFFFF"
     left:
       - text: "Home"
-        href: index.qmd
+        href: en/index.qmd
       - text: "Call for presentations"
-        href: call_for_presentations.qmd
+        href: en/call_for_presentations.qmd
+      - text: "---"
+      - text: "Accueil"
+        href: fr/index.qmd
+      - text: "Appel à Conférencier.es"
+        href: fr/call_for_presentations.qmd
     right:
       - icon: github
         href: https://github.com/RSEAA/Research-Software-Africa

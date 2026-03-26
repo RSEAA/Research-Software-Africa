@@ -1,0 +1,90 @@
+---
+title: "RSA26 — Instructions aux auteurs conférencier.es"
+format: html
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Merci de l'intérêt que vous portez à la **Conférence Research Software Africa 2026 (RSA26)**.
+Afin de faciliter le processus de soumission et de garantir une expérience de présentation de qualité, nous vous invitons à lire attentivement les instructions ci-dessous.
+
+## 1. Formats de présentation
+
+Les auteurs peuvent choisir parmi les formats suivants :
+
+- **Présentation éclair/Lightning Talk – 5 minutes** : Une intervention courte et percutante pour partager une idée nouvelle, une tendance émergente ou une étude de cas rapide.
+- **Démonstration – 10 minutes** : Une session pratique pour présenter des outils, des techniques ou des flux de travail, avec des enseignements concrets ou un tutoriel express.
+- **Présentation standard – 15 minutes** : Une exploration plus approfondie d'un sujet précis, qu'il s'agisse de résultats de recherche, de bonnes pratiques ou d'initiatives communautaires.
+- **Format libre** : Si votre contenu ne correspond pas aux formats ci-dessus, vous êtes invité.e à proposer une alternative.
+
+Les formats non oraux, comme les posters, ne sont pas inclus dans cet appel à contributions.
+
+Quelle que soit la durée choisie, chaque présentation doit être **claire, engageante et en lien avec le thème de la conférence : « Se connecter avec la communauté »**.
+
+## 2. Consignes de soumission
+
+Les soumissions doivent être déposées via le système en ligne de RSA26 avant la date limite de dépôt (à confirmer).
+
+### Ce que doit contenir votre soumission
+
+- **Titre** : Un titre clair et précis.
+- **Résumé** : Entre 150 et 300 mots présentant le contenu de votre intervention et son lien avec le thème de la conférence.
+- **Objectifs pédagogiques** : 3 à 5 points clés que le public retiendra.
+- **Informations sur le(s) présentateur(s)** : Nom, affiliation, biographie (150 mots maximum) et coordonnées.
+- **Format souhaité** : Précisez si vous proposez une présentation éclair (5 min), une démonstration (10 min), une présentation standard (15 min) ou un format libre.
+
+## 3. Critères de sélection
+
+Les soumissions seront évaluées selon les critères suivants :
+
+- Pertinence par rapport au thème et aux sous-thèmes de la conférence.
+- Clarté et cohérence du résumé.
+- Applicabilité pratique et impact potentiel pour la communauté Research Software.
+- Adéquation avec les centres d'intérêt de la communauté RSE.
+- Diversité des profils : les interventions de débutant.es, de chercheurs en début de carrière et celles portant sur des sujets fondamentaux sont particulièrement encouragées.
+
+La conférence s'engage à accueillir des perspectives variées et à faciliter l'accès à la prise de parole pour les nouveaux intervenants.
+
+Les auteurs seront **informés des décisions du comité** à l'issue du processus d'évaluation.
+
+## 4. Instructions pour les présentateurs
+
+### 4.1 Consignes générales
+
+- Les présentateurs doivent être prêts à **intervenir en direct**, dans un **format entièrement en ligne**.
+- Les sessions se dérouleront sur une plateforme virtuelle (les détails seront communiqués avant l'événement).
+- Tous les supports de présentation doivent être accessibles et conformes à **l'engagement de RSA26 en matière d'accessibilité numérique**.
+
+### 4.2 Accessibilité numérique
+
+Pour garantir une expérience inclusive à tou.tes les participant.es, nous recommandons aux présentateurs de :
+
+- Utiliser des **polices lisibles avec un contraste suffisant** dans leurs diapositives.
+- Ajouter un **texte alternatif (alt text)** pour toutes les images, graphiques et figures.
+- **Sous-titrer les vidéos** afin d'en améliorer l'accessibilité.
+- Éviter de transmettre une information importante **uniquement par la couleur**.
+
+## 5. Préparation technique
+
+- Assurez-vous de disposer d'une **connexion internet stable** et d'un **environnement calme** pour votre session.
+- Utilisez un **microphone de bonne qualité** pour garantir un son clair.
+- Testez le partage d'écran et **répétez votre présentation** avant le jour J.
+
+## 6. Code de conduite
+
+Tous les présentateurs et participants sont tenus de respecter le **Code de conduite de RSA26**, qui promeut **un environnement respectueux, inclusif et exempt de toute forme de harcèlement**.
+
+### Les intervenants sont invités à :
+
+- Favoriser une **atmosphère collaborative et bienveillante**.
+- Veiller à ce que leurs présentations soient **exemptes de tout langage ou visuel discriminatoire**.
+- Rester **ouverts à la discussion constructive et aux retours** de la communauté.
+
+## 7. Contact
+
+Pour toute question ou demande d'information complémentaire, n'hésitez pas à contacter le **Comité organisateur de RSA26** à l'adresse suivante : info@rseaa.org.
+
+Nous nous réjouissons de vous accueillir lors de **RSA26** et vous remercions de votre contribution à l'essor de la communauté du logiciel de recherche en Afrique.
+
+Pour toute mise à jour ou information supplémentaire, rendez-vous sur : <https://rseaa.org/Research-Software-Africa/>.

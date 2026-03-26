@@ -1,0 +1,13 @@
+---
+title: "Inscription"
+---
+
+::: {style="font-size: 3rem; text-align: center;"}
+:::
+Bienvenue à Research Software Afrique 2026.
+
+### Appel aux Bénévoles
+[Inscrivez-vous ici]() pour servir de bénévole lors de la conférence
+
+### Inscription à la Conférence
+[Inscrivez-vous ici]() pour participer à la conférence
