@@ -125,5 +125,5 @@ Pour toute question ou demande d'information, contactez le comité d'organisatio
 Nous remercions les organisations qui rendent cet événement possible.
 
 <p style="font-size: small;color: grey">
-*Le service <a href="https://cmt3.research.microsoft.com">Microsoft CMT</a> a été utilisé pour gérer le processus d'évaluation par les pairs de cette conférence. Ce service a été mis à disposition gratuitement par Microsoft, qui a pris en charge l'ensemble des coûts, y compris les services cloud Azure et le développement logiciel.*
+*Le service <a href="https://cmt3.research.microsoft.com">Microsoft CMT</a> a été utilisé pour gérer le processus d'évaluation par les collaborateurs de cette conférence. Ce service a été mis à disposition gratuitement par Microsoft, qui a pris en charge l'ensemble des coûts, y compris les services cloud Azure et le développement logiciel.*
 </p>
