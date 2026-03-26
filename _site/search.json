@@ -1,177 +1,450 @@
 [
   {
-    "objectID": "author_guidelines.html",
-    "href": "author_guidelines.html",
+    "objectID": "fr/author_guidelines.html",
+    "href": "fr/author_guidelines.html",
+    "title": "RSA26 — Instructions aux auteurs conférencier.es",
+    "section": "",
+    "text": "Merci de l’intérêt que vous portez à la Conférence Research Software Africa 2026 (RSA26). Afin de faciliter le processus de soumission et de garantir une expérience de présentation de qualité, nous vous invitons à lire attentivement les instructions ci-dessous."
+  },
+  {
+    "objectID": "fr/author_guidelines.html#formats-de-présentation",
+    "href": "fr/author_guidelines.html#formats-de-présentation",
+    "title": "RSA26 — Instructions aux auteurs conférencier.es",
+    "section": "1. Formats de présentation",
+    "text": "1. Formats de présentation\nLes auteurs peuvent choisir parmi les formats suivants :\n\nPrésentation éclair/Lightning Talk – 5 minutes : Une intervention courte et percutante pour partager une idée nouvelle, une tendance émergente ou une étude de cas rapide.\nDémonstration – 10 minutes : Une session pratique pour présenter des outils, des techniques ou des flux de travail, avec des enseignements concrets ou un tutoriel express.\nPrésentation standard – 15 minutes : Une exploration plus approfondie d’un sujet précis, qu’il s’agisse de résultats de recherche, de bonnes pratiques ou d’initiatives communautaires.\nFormat libre : Si votre contenu ne correspond pas aux formats ci-dessus, vous êtes invité.e à proposer une alternative.\n\nLes formats non oraux, comme les posters, ne sont pas inclus dans cet appel à contributions.\nQuelle que soit la durée choisie, chaque présentation doit être claire, engageante et en lien avec le thème de la conférence : « Se connecter avec la communauté »."
+  },
+  {
+    "objectID": "fr/author_guidelines.html#consignes-de-soumission",
+    "href": "fr/author_guidelines.html#consignes-de-soumission",
+    "title": "RSA26 — Instructions aux auteurs conférencier.es",
+    "section": "2. Consignes de soumission",
+    "text": "2. Consignes de soumission\nLes soumissions doivent être déposées via le système en ligne de RSA26 avant la date limite de dépôt (à confirmer).\n\nCe que doit contenir votre soumission\n\nTitre : Un titre clair et précis.\nRésumé : Entre 150 et 300 mots présentant le contenu de votre intervention et son lien avec le thème de la conférence.\nObjectifs pédagogiques : 3 à 5 points clés que le public retiendra.\nInformations sur le(s) présentateur(s) : Nom, affiliation, biographie (150 mots maximum) et coordonnées.\nFormat souhaité : Précisez si vous proposez une présentation éclair (5 min), une démonstration (10 min), une présentation standard (15 min) ou un format libre."
+  },
+  {
+    "objectID": "fr/author_guidelines.html#critères-de-sélection",
+    "href": "fr/author_guidelines.html#critères-de-sélection",
+    "title": "RSA26 — Instructions aux auteurs conférencier.es",
+    "section": "3. Critères de sélection",
+    "text": "3. Critères de sélection\nLes soumissions seront évaluées selon les critères suivants :\n\nPertinence par rapport au thème et aux sous-thèmes de la conférence.\nClarté et cohérence du résumé.\nApplicabilité pratique et impact potentiel pour la communauté Research Software.\nAdéquation avec les centres d’intérêt de la communauté RSE.\nDiversité des profils : les interventions de débutant.es, de chercheurs en début de carrière et celles portant sur des sujets fondamentaux sont particulièrement encouragées.\n\nLa conférence s’engage à accueillir des perspectives variées et à faciliter l’accès à la prise de parole pour les nouveaux intervenants.\nLes auteurs seront informés des décisions du comité à l’issue du processus d’évaluation."
+  },
+  {
+    "objectID": "fr/author_guidelines.html#instructions-pour-les-présentateurs",
+    "href": "fr/author_guidelines.html#instructions-pour-les-présentateurs",
+    "title": "RSA26 — Instructions aux auteurs conférencier.es",
+    "section": "4. Instructions pour les présentateurs",
+    "text": "4. Instructions pour les présentateurs\n\n4.1 Consignes générales\n\nLes présentateurs doivent être prêts à intervenir en direct, dans un format entièrement en ligne.\nLes sessions se dérouleront sur une plateforme virtuelle (les détails seront communiqués avant l’événement).\nTous les supports de présentation doivent être accessibles et conformes à l’engagement de RSA26 en matière d’accessibilité numérique.\n\n\n\n4.2 Accessibilité numérique\nPour garantir une expérience inclusive à tou.tes les participant.es, nous recommandons aux présentateurs de :\n\nUtiliser des polices lisibles avec un contraste suffisant dans leurs diapositives.\nAjouter un texte alternatif (alt text) pour toutes les images, graphiques et figures.\nSous-titrer les vidéos afin d’en améliorer l’accessibilité.\nÉviter de transmettre une information importante uniquement par la couleur."
+  },
+  {
+    "objectID": "fr/author_guidelines.html#préparation-technique",
+    "href": "fr/author_guidelines.html#préparation-technique",
+    "title": "RSA26 — Instructions aux auteurs conférencier.es",
+    "section": "5. Préparation technique",
+    "text": "5. Préparation technique\n\nAssurez-vous de disposer d’une connexion internet stable et d’un environnement calme pour votre session.\nUtilisez un microphone de bonne qualité pour garantir un son clair.\nTestez le partage d’écran et répétez votre présentation avant le jour J."
+  },
+  {
+    "objectID": "fr/author_guidelines.html#code-de-conduite",
+    "href": "fr/author_guidelines.html#code-de-conduite",
+    "title": "RSA26 — Instructions aux auteurs conférencier.es",
+    "section": "6. Code de conduite",
+    "text": "6. Code de conduite\nTous les présentateurs et participants sont tenus de respecter le Code de conduite de RSA26, qui promeut un environnement respectueux, inclusif et exempt de toute forme de harcèlement.\n\nLes intervenants sont invités à :\n\nFavoriser une atmosphère collaborative et bienveillante.\nVeiller à ce que leurs présentations soient exemptes de tout langage ou visuel discriminatoire.\nRester ouverts à la discussion constructive et aux retours de la communauté."
+  },
+  {
+    "objectID": "fr/author_guidelines.html#contact",
+    "href": "fr/author_guidelines.html#contact",
+    "title": "RSA26 — Instructions aux auteurs conférencier.es",
+    "section": "7. Contact",
+    "text": "7. Contact\nPour toute question ou demande d’information complémentaire, n’hésitez pas à contacter le Comité organisateur de RSA26 à l’adresse suivante : info@rseaa.org.\nNous nous réjouissons de vous accueillir lors de RSA26 et vous remercions de votre contribution à l’essor de la communauté du logiciel de recherche en Afrique.\nPour toute mise à jour ou information supplémentaire, rendez-vous sur : https://rseaa.org/Research-Software-Africa/."
+  },
+  {
+    "objectID": "fr/registration.html",
+    "href": "fr/registration.html",
+    "title": "Inscription",
+    "section": "",
+    "text": "Bienvenue à Research Software Afrique 2026.\n\nAppel aux Bénévoles\nInscrivez-vous ici pour servir de bénévole lors de la conférence\n\n\nInscription à la Conférence\nInscrivez-vous ici pour participer à la conférence"
+  },
+  {
+    "objectID": "en/author_guidelines.html",
+    "href": "en/author_guidelines.html",
     "title": "RSA26 Author Guidelines",
     "section": "",
     "text": "Thank you for your interest in contributing to the Research Software Africa Conference 2026 (RSA26). To ensure a smooth submission and presentation experience, please follow the guidelines below."
   },
   {
-    "objectID": "author_guidelines.html#presentation-formats-requirements",
-    "href": "author_guidelines.html#presentation-formats-requirements",
+    "objectID": "en/author_guidelines.html#presentation-formats-requirements",
+    "href": "en/author_guidelines.html#presentation-formats-requirements",
     "title": "RSA26 Author Guidelines",
     "section": "1. Presentation Formats & Requirements",
     "text": "1. Presentation Formats & Requirements\nAuthors may choose from the following presentation options:\n\n5-minute Lightning Talk – A concise, impactful presentation to share a new idea, emerging trend, or brief case study.\n10-minute Demo/Showcase – A hands-on session to demonstrate tools, techniques, or workflows, offering practical insights or a quick tutorial.\n15-minute Presentation – A deeper exploration of a specific topic, including research findings, best practices, or community-driven initiatives.\nFlexible Presentation Format – If your content doesn’t fit into the above options, propose an alternative presentation format. Non-presentation formats, such as posters, are not included in this CFP.\n\nEach presentation should be concise, engaging, and relevant to the conference theme: “Connecting with Community”."
   },
   {
-    "objectID": "author_guidelines.html#submission-guidelines",
-    "href": "author_guidelines.html#submission-guidelines",
+    "objectID": "en/author_guidelines.html#submission-guidelines",
+    "href": "en/author_guidelines.html#submission-guidelines",
     "title": "RSA26 Author Guidelines",
     "section": "2. Submission Guidelines",
     "text": "2. Submission Guidelines\nSubmissions must be made through the RSA26 online submission system by the submission deadline (TBA).\n\nSubmission Requirements\nEach submission should include: - Title: A clear and concise title of your presentation.\n\nAbstract: 150–300 words summarizing the content and its relevance to the theme.\nLearning Objectives: 3–5 key takeaways for the audience.\nPresenter Information: Name, affiliation, bio (up to 150 words), and contact details.\nPreferred Presentation Format: Indicate if you are submitting a Lightning Talk (5 min), Demo/Showcase (10 min), Presentation (15 min), or Flexible Presentation Format."
   },
   {
-    "objectID": "author_guidelines.html#selection-criteria",
-    "href": "author_guidelines.html#selection-criteria",
+    "objectID": "en/author_guidelines.html#selection-criteria",
+    "href": "en/author_guidelines.html#selection-criteria",
     "title": "RSA26 Author Guidelines",
     "section": "3. Selection Criteria",
-    "text": "3. Selection Criteria\nSubmissions will be reviewed based on: - Relevance to the conference theme and sub-themes.\n\nClarity and coherence of the abstract.\nPractical applicability and potential impact on the research software community.\nAlignment with the interests of the research software community.\nInclusivity of the speaker(s) – Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.\n\nAuthors will be notified of acceptance after the review process is complete.\n ## 4. Presentation Guidelines\n\n4.1 General Guidelines\n\nPresenters should be prepared to deliver their presentation live in an online format.\nSessions will be conducted via a virtual conference platform (details to be provided closer to the event).\nPresenters should ensure their materials are accessible and align with RSA26’s commitment to digital accessibility.\n\n\n\n4.2 Digital Accessibility Requirements\nTo ensure an inclusive experience, we recommend that all presenters: - Use high-contrast and readable fonts in presentation slides. - Provide alternative text (alt text) for images, charts, and figures. - Include captions in videos to improve accessibility. - Avoid relying on color alone to convey key information."
+    "text": "3. Selection Criteria\nSubmissions will be reviewed based on: - Relevance to the conference theme and sub-themes.\n\nClarity and coherence of the abstract.\nPractical applicability and potential impact on the research software community.\nAlignment with the interests of the research software community.\nInclusivity of the speaker(s) – Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.\n\nAuthors will be notified of acceptance after the review process is complete.\n ## 4. Presentation Guidelines\n\n4.1 General Guidelines\n\nPresenters should be prepared to deliver their presentation live in an online format.\nSessions will be conducted via a virtual conference platform (details to be provided closer to the event).\nPresenters should ensure their materials are accessible and align with RSA26’s commitment to digital accessibility.\n\n\n\n4.2 Digital Accessibility Requirements\nTo ensure an inclusive experience, we recommend that all presenters:\n\nUse high-contrast and readable fonts in presentation slides.\nProvide alternative text (alt text) for images, charts, and figures.\nInclude captions in videos to improve accessibility.\nAvoid relying on color alone to convey key information."
   },
   {
-    "objectID": "author_guidelines.html#presentation-preparation",
-    "href": "author_guidelines.html#presentation-preparation",
+    "objectID": "en/author_guidelines.html#presentation-preparation",
+    "href": "en/author_guidelines.html#presentation-preparation",
     "title": "RSA26 Author Guidelines",
     "section": "5. Presentation Preparation",
     "text": "5. Presentation Preparation\n\nEnsure you have a stable internet connection and a quiet environment for your session.\nUse a good-quality microphone to ensure clear audio.\nTest your screen-sharing capabilities and rehearse your presentation before the event."
   },
   {
-    "objectID": "author_guidelines.html#code-of-conduct",
-    "href": "author_guidelines.html#code-of-conduct",
+    "objectID": "en/author_guidelines.html#code-of-conduct",
+    "href": "en/author_guidelines.html#code-of-conduct",
     "title": "RSA26 Author Guidelines",
     "section": "6. Code of Conduct",
     "text": "6. Code of Conduct\nAll presenters and attendees are expected to adhere to the RSA26 Code of Conduct, which promotes a respectful, inclusive, and harassment-free environment.\n\nSpeakers should:\n\nFoster a collaborative and welcoming atmosphere.\nEnsure that their presentations are free from discriminatory language or imagery.\nBe open to constructive discussion and feedback from the community."
   },
   {
-    "objectID": "author_guidelines.html#contact-information",
-    "href": "author_guidelines.html#contact-information",
+    "objectID": "en/author_guidelines.html#contact-information",
+    "href": "en/author_guidelines.html#contact-information",
     "title": "RSA26 Author Guidelines",
     "section": "7. Contact Information",
     "text": "7. Contact Information\nFor any questions or further assistance, please contact the RSA26 Organizing Committee at info@rseaa.org.\nWe look forward to your participation in RSA26 and appreciate your contribution to building a stronger research software community!\nFor updates and additional details, visit: https://rseaa.org/Research-Software-Africa/."
   },
   {
-    "objectID": "registration.html",
-    "href": "registration.html",
+    "objectID": "en/registration.html",
+    "href": "en/registration.html",
     "title": "Registration",
     "section": "",
-    "text": "🚧 Page in construction"
+    "text": "Welcome to the Research Software Africa 2026.\n\nCall for Volunteers\nRegister here to serve as a volunteer during the conference\n\n\nRegister for the Conference\nRegister here to attend the conference"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research Software Africa (RSA26)",
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Research Software Africa (RSAfrica26)",
     "section": "",
-    "text": "25-28 de August, 2026\n(Online)\nRegistration"
+    "text": "25th-28th August, 2026\n(Online)\nRegistration"
   },
   {
-    "objectID": "index.html#introducing-research-software-africa-research-software-latinoamérica-and-equersa",
-    "href": "index.html#introducing-research-software-africa-research-software-latinoamérica-and-equersa",
-    "title": "Research Software Africa (RSA26)",
-    "section": "Introducing Research Software Africa, Research Software Latinoamérica, and Equersa",
-    "text": "Introducing Research Software Africa, Research Software Latinoamérica, and Equersa\nWe are thrilled to announce that we are helping to setup two new conferences Research Software Africa (RSA26) and Research Software Latinoamérica (RSLA26)!\nWe are creating one joint organising committee, while co-chairs for each conference still get to choose what happens at their event.\nAs part of this one joint organising committee, we have created Equersa, an umbrella organisation to help coordinate the conferences and to provide a unified front to global funders and stakeholders.\nMore on RSA26, RSLA26, and Equersa soon!"
+    "objectID": "en/index.html#working-with-research-software-asia-australia-research-software-latinoamérica-and-equersa",
+    "href": "en/index.html#working-with-research-software-asia-australia-research-software-latinoamérica-and-equersa",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Working with Research Software Asia Australia, Research Software Latinoamérica, and Equersa",
+    "text": "Working with Research Software Asia Australia, Research Software Latinoamérica, and Equersa\nWe are thrilled to announce that we are working with two other conferences, the established Research Software Asia Australia (RSAA26) and the new Research Software Latinoamérica (RSLA26)!\nWe are creating a joint organising committee, while the co-chairs for each conference can still choose what happens at their event.\nAs part of this joint organising committee, we have created Equersa](https://equersa.org), an umbrella organisation to coordinate conferences and provide a unified front to global funders and stakeholders."
   },
   {
-    "objectID": "index.html#key-dates-tentative",
-    "href": "index.html#key-dates-tentative",
-    "title": "Research Software Africa (RSA26)",
+    "objectID": "en/index.html#key-dates-tentative",
+    "href": "en/index.html#key-dates-tentative",
+    "title": "Research Software Africa (RSAfrica26)",
     "section": "Key Dates (Tentative)",
     "text": "Key Dates (Tentative)\n\n\n\nItem\nOpen\nClose\n\n\n\n\nCall for Presentations\n30th March\n1st May\n\n\nCall for Accessibility Fellows\n14th May\n26th June\n\n\nNotification of presentations\n7th July\n—\n\n\nCall for Session chairs\nASAP\n7th August\n\n\nCall for Reviewers\nASAP\n15th May\n\n\nMicro-grants\n14th May\n10th July\n\n\nScholarships\n14th May\n14th August\n\n\nEarly Bird Registrations\n15th June\n10th July\n\n\nStandard Registrations\n11th July\n14th August\n\n\nConference\n25th August\n28th August (depending on conference)"
   },
   {
-    "objectID": "index.html#call-for-presentations",
-    "href": "index.html#call-for-presentations",
-    "title": "Research Software Africa (RSA26)",
+    "objectID": "en/index.html#call-for-presentations",
+    "href": "en/index.html#call-for-presentations",
+    "title": "Research Software Africa (RSAfrica26)",
     "section": "Call for Presentations",
-    "text": "Call for Presentations\nThe Call for Presentations (CFP) for the Research Software Africa Conference 2026 (RSA26) will be announced soon. This year’s theme, “Connecting with Community,” focuses on fostering collaboration and engagement within the research software community.\nFor more details, please refer to the Call for Presentations document when available."
+    "text": "Call for Presentations\nThe Call for Presentations (CFP) for the Research Software Africa Conference 2026 (RSAfrica26) will be announced soon. This year’s theme, “Research Software Without Borders”, focuses on fostering collaboration and engagement within the research software community.\nFor more details, please refer to the Call for Presentations document when available."
   },
   {
-    "objectID": "index.html#call-for-workshops",
-    "href": "index.html#call-for-workshops",
-    "title": "Research Software Africa (RSA26)",
+    "objectID": "en/index.html#call-for-workshops",
+    "href": "en/index.html#call-for-workshops",
+    "title": "Research Software Africa (RSAfrica26)",
     "section": "Call for Workshops",
-    "text": "Call for Workshops\nWe invite proposals for workshops to be held on the first day of RSA26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.\n\nAuthor Guidelines\nThank you for your interest in contributing to the Research Software Africa Conference 2026 (RSA26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the Author Guidelines document.\nThe Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
+    "text": "Call for Workshops\nWe invite proposals for workshops to be held on the first day of RSAfrica26 (Tuesday, 25th August 2026), focusing on interactive, skills-focused sessions that engage participants in hands-on learning, tool development, or collaborative discussions within the research software community.\n\nAuthor Guidelines\nThank you for your interest in contributing to the Research Software Africa Conference 2026 (RSAfrica26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the Author Guidelines document."
   },
   {
-    "objectID": "call_for_presentations.html",
-    "href": "call_for_presentations.html",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/index.html#accessibility-and-inclusivity",
+    "href": "en/index.html#accessibility-and-inclusivity",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Accessibility and Inclusivity",
+    "text": "Accessibility and Inclusivity\nWe are committed to creating a safe, accessible, and inclusive environment for all participants.\nIn 2022, Liz Hare provided a high-level accessibility report for the conference that we use as a benchmark for our performance.\nTo this end we are offering scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc.\nEligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.\nEligibility for the accessibility micro-grants will be based on a similar approach.\nWe encourage participants to apply even if they do not think they are eligible, as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.\nYou will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant.\nAll successful recipients of scholarships and accessible micro-grants are expected to submit a poster for the event.\nIf you feel that the conference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at info at rseaa.org.\nYou can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fellowship aims to encourage individuals with disabilities - such as those who are deaf, hard of hearing, blind, have low vision, or have other disabilities - from within our community or adjacent communities to join RSAA26. Their involvement will help ensure we are held accountable for the accessibility of this online event."
+  },
+  {
+    "objectID": "en/index.html#organising-committee-members",
+    "href": "en/index.html#organising-committee-members",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Organising Committee Members",
+    "text": "Organising Committee Members\n\nPeculiar C. Umeh\nMichael Umeokoli\nKim Martin\nMaryblessing Okolie\nRowland Mosbergen\nIbimina Hart\nAmina Ezznafry\nRichard Dushime\nSeun Olufemi\nWachiou Baouraima\nGeoffrey Logovi\nIbsèn Bazie\nChristopher Lubega\nAhmed Unshur\nTosan Okome\nBernard Solodzi"
+  },
+  {
+    "objectID": "en/index.html#want-to-sign-up-for-updates",
+    "href": "en/index.html#want-to-sign-up-for-updates",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Want to sign up for updates?",
+    "text": "Want to sign up for updates?\nCurrently we are using the RSAA mailing list although we do have our own LinkedIn - Click here to sign up for the RSAA mailing list - Click here to follow us on LinkedIn"
+  },
+  {
+    "objectID": "en/index.html#code-of-conduct",
+    "href": "en/index.html#code-of-conduct",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nThe Code of Conduct is designed to provide all participants with community participation guidelines."
+  },
+  {
+    "objectID": "en/index.html#contact-us",
+    "href": "en/index.html#contact-us",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Contact Us",
+    "text": "Contact Us\nIf you would like to know more or have any questions, please contact the organising committee at info@rseaa.org by email."
+  },
+  {
+    "objectID": "en/index.html#sponsors",
+    "href": "en/index.html#sponsors",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Sponsors",
+    "text": "Sponsors\nWe thank the organizations that make this event possible\n\nThe Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
+  },
+  {
+    "objectID": "en/call_for_presentations.html",
+    "href": "en/call_for_presentations.html",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "",
     "text": "Conference date: 25 August 2026\nPart of the Global South Research Software Group of Conferences"
   },
   {
-    "objectID": "call_for_presentations.html#research-software-without-borders",
-    "href": "call_for_presentations.html#research-software-without-borders",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#research-software-without-borders",
+    "href": "en/call_for_presentations.html#research-software-without-borders",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "",
     "text": "Conference date: 25 August 2026\nPart of the Global South Research Software Group of Conferences"
   },
   {
-    "objectID": "call_for_presentations.html#about-rsa26",
-    "href": "call_for_presentations.html#about-rsa26",
-    "title": "Call for Presentations – RSA26",
-    "section": "About RSA26",
-    "text": "About RSA26\nThe Research Software Africa Conference (RSA26) brings together people involved in building, using, supporting, and sustaining research software across Africa.\nIn 2026, RSA is part of a coordinated Global South Research Software Group of Conferences, running across Asia, Australia, New Zealand, Africa, and Latin America over the same dates. Together, these events create space for regional conversations alongside shared global exchange.\nThis year’s theme, “Research Software Without Borders”, is about breaking down barriers between regions, institutions, disciplines, and communities to build research software that is equitable, sustainable, and community-led.\nWe invite contributions from anyone involved in research software, including research software engineers (RSEs), researchers, infrastructure providers, librarians, data specialists, community organisers, students, and funders."
+    "objectID": "en/call_for_presentations.html#about-rsafrica26",
+    "href": "en/call_for_presentations.html#about-rsafrica26",
+    "title": "Call for Presentations – RSAfrica26",
+    "section": "About RSAfrica26",
+    "text": "About RSAfrica26\nThe Research Software Africa Conference (RSAfrica26) brings together people involved in building, using, supporting, and sustaining research software across Africa.\nIn 2026, RSAfrica is part of a coordinated Global South Research Software Group of Conferences, running across Asia, Australia, New Zealand, Africa, and Latin America over the same dates. Together, these events create space for regional conversations alongside shared global exchange.\nThis year’s theme, “Research Software Without Borders”, is about breaking down barriers between regions, institutions, disciplines, and communities to build research software that is equitable, sustainable, and community-led.\nWe invite contributions from anyone involved in research software, including research software engineers (RSEs), researchers, infrastructure providers, librarians, data specialists, community organisers, students, and funders."
   },
   {
-    "objectID": "call_for_presentations.html#topics-of-interest",
-    "href": "call_for_presentations.html#topics-of-interest",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#topics-of-interest",
+    "href": "en/call_for_presentations.html#topics-of-interest",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "Topics of Interest",
     "text": "Topics of Interest\nWe welcome presentations related to the theme, including (but not limited to):\n\nEquity, Access and Knowledge\n\nEquitable access to research software and infrastructure\n\nIndigenous, local, and culturally grounded knowledge systems\n\nData sovereignty, governance, and ethical research software\n\nAccessibility, multilingualism, and inclusive design (e.g. barriers for people with English as a second language in jobs and funding opportunities)\n\n\n\nInfrastructure and Platforms\n\nCloud, HPC, and hybrid infrastructure for research\n\nShared platforms and regional services\n\nOpen, community-owned, or sovereign infrastructure\n\nDoing more with limited resources\n\n\n\nReproducibility, FAIR and Open Research\n\nReproducible workflows and good research practice\n\nFAIR data and software in practice\n\nProvenance, metadata, and research integrity\n\nOpen collaboration and reuse\n\n\n\nCommunity and Collaboration\n\nBuilding and sustaining research software and RSE communities\n\nCommunity governance and leadership\n\nCross-institution and cross-regional collaboration\n\nLessons learned from community practice\n\n\n\nData Platforms and Data Spaces\n\nResearch data platforms, commons, and shared environments\n\nInteroperable data spaces for cross-institution and cross-regional collaboration\n\nFederated data systems and trusted research environments\n\nIntegrating data platforms with research software and workflows\n\n\n\nSkills, Training and Careers\n\nTeaching and learning research software skills\n\nRSE career paths and recognition\n\nMentoring, leadership, and capacity building\n\nSupporting early-career practitioners\n\n\n\nAI and Emerging Tools\n\nAI-enabled research software and workflows\n\nResponsible and ethical use of AI\n\nAutomation, agents, and emerging technologies\n\nReal-world experiences and lessons learned\n\n\n\nSustainability and Impact\n\nSustaining research software beyond funding cycles\n\nMaintenance, support, and stewardship models\n\nEnvironmentally responsible computing\n\nMeasuring and communicating impact"
   },
   {
-    "objectID": "call_for_presentations.html#presentation-options",
-    "href": "call_for_presentations.html#presentation-options",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#presentation-options",
+    "href": "en/call_for_presentations.html#presentation-options",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "Presentation Options",
     "text": "Presentation Options\nWhen submitting, please choose one of the following:\n\n5-minute Lightning Talk\nA short presentation to share a new idea, early work, lessons learned, or a brief case study.\n\n\n10-minute Demo / Showcase\nA practical demonstration of a tool, workflow, platform, or technique, focusing on real-world use.\n\n\n15-minute Presentation\nA standard conference presentation that allows time to explore a topic in more depth.\n\n\nFlexible Presentation Format\nIf your proposal does not fit the options above, you are welcome to suggest an alternative format (for example, a workshop, a panel, or a facilitated discussion).\n\nNote: Non-presentation formats, such as posters, are not included in this Call for Presentations.\n\nWe particularly encourage first-time presenters, early-career practitioners, and community-focused submissions."
   },
   {
-    "objectID": "call_for_presentations.html#submission-guidelines",
-    "href": "call_for_presentations.html#submission-guidelines",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#submission-guidelines",
+    "href": "en/call_for_presentations.html#submission-guidelines",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "Submission Guidelines",
     "text": "Submission Guidelines\nWhen submitting your proposal, please include:\n\nTitle of your presentation\n\nPresentation type (from the options above)\n\nAbstract (approximately 150–300 words)\n\nLearning Objectives (3–5 key takeaways for the audience)\n\nPresenter Information (name, affiliation, bio up to 150 words, and contact details)\n\nSubmissions should clearly describe what attendees will learn and how the presentation connects to research software practice or community.\nYou do not need to have a finished project. Work-in-progress, lessons learned, and honest reflections are welcome."
   },
   {
-    "objectID": "call_for_presentations.html#review-process",
-    "href": "call_for_presentations.html#review-process",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#review-process",
+    "href": "en/call_for_presentations.html#review-process",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "Review Process",
-    "text": "Review Process\nSubmissions will be reviewed based on:\n\nRelevance to the RSA26 theme\n\nClarity and coherence of the abstract\n\nPractical applicability and potential impact\n\nAlignment with the interests of the research software community\n\nInclusivity of speaker(s)\n\nTalks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers."
+    "text": "Review Process\nSubmissions will be reviewed based on:\n\nRelevance to the RSArica26 theme\n\nClarity and coherence of the abstract\n\nPractical applicability and potential impact\n\nAlignment with the interests of the research software community\n\nInclusivity of speaker(s)\n\nTalks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers."
   },
   {
-    "objectID": "call_for_presentations.html#submission-timeline",
-    "href": "call_for_presentations.html#submission-timeline",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#submission-timeline",
+    "href": "en/call_for_presentations.html#submission-timeline",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "Submission Timeline",
     "text": "Submission Timeline\n\nCFP Opens: TBD\n\nSubmission Deadline: May 1st, 2026\n\nNotification of Acceptance: July 7th, 2026"
   },
   {
-    "objectID": "call_for_presentations.html#code-of-conduct",
-    "href": "call_for_presentations.html#code-of-conduct",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#code-of-conduct",
+    "href": "en/call_for_presentations.html#code-of-conduct",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "Code of Conduct",
-    "text": "Code of Conduct\nRSA is committed to providing a welcoming, inclusive, and respectful conference environment. All participants are expected to follow the RSA Code of Conduct."
+    "text": "Code of Conduct\nRSAfrica is committed to providing a welcoming, inclusive, and respectful conference environment. All participants are expected to follow the RSEAA Code of Conduct."
   },
   {
-    "objectID": "call_for_presentations.html#why-submit-to-rsa26",
-    "href": "call_for_presentations.html#why-submit-to-rsa26",
-    "title": "Call for Presentations – RSA26",
-    "section": "Why Submit to RSA26?",
-    "text": "Why Submit to RSA26?\n\nBe part of a globally connected set of conferences\n\nShare your work with a supportive, community-led audience\n\nLearn from research software practitioners across regions\n\nHelp shape the future of research software in the Global South"
+    "objectID": "en/call_for_presentations.html#why-submit-to-rsafrica26",
+    "href": "en/call_for_presentations.html#why-submit-to-rsafrica26",
+    "title": "Call for Presentations – RSAfrica26",
+    "section": "Why Submit to RSAfrica26?",
+    "text": "Why Submit to RSAfrica26?\n\nBe part of a globally connected set of conferences\n\nShare your work with a supportive, community-led audience\n\nLearn from research software practitioners across regions\n\nHelp shape the future of research software in the Global South"
   },
   {
-    "objectID": "call_for_presentations.html#diversity-and-inclusion",
-    "href": "call_for_presentations.html#diversity-and-inclusion",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#diversity-and-inclusion",
+    "href": "en/call_for_presentations.html#diversity-and-inclusion",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "Diversity and Inclusion",
     "text": "Diversity and Inclusion\nWe encourage submissions from individuals of all backgrounds, disciplines, and career stages. RSA26 is committed to creating an inclusive environment that values diverse perspectives and experiences. The conference actively promotes Digital Accessibility, and we encourage presenters to: - Use clear and readable slides with high contrast. - Provide alternative text (alt text) for images, charts, and figures. - Include captions in videos to improve accessibility. - Avoid reliance on color alone to convey information."
   },
   {
-    "objectID": "call_for_presentations.html#submission-process-contact",
-    "href": "call_for_presentations.html#submission-process-contact",
-    "title": "Call for Presentations – RSA26",
+    "objectID": "en/call_for_presentations.html#submission-process-contact",
+    "href": "en/call_for_presentations.html#submission-process-contact",
+    "title": "Call for Presentations – RSAfrica26",
     "section": "Submission Process & Contact",
-    "text": "Submission Process & Contact\nSubmit your proposals via the RSA26 online submission system at submission link/TBD. (To register for the submission platform, visit registration link. Note: All external profile information on the registration form is optional.) For questions, please contact the RSA26 Organizing Committee at info@rseaa.org.\nSubmit Presentation for RSA26\nWe look forward to your participation in RSA26, as we come together to strengthen our community connections and advance the field of research software!\nFor more information, visit https://rseaa.org.\n\nThe Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
+    "text": "Submission Process & Contact\nSubmit your proposals via the RSAfrica26 online submission system at submission link/TBD. (To register for the submission platform, visit registration link. Note: All external profile information on the registration form is optional.) For questions, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.\nSubmit Presentation for RSAfrica26\nWe look forward to your participation in RSAfrica26, as we come together to strengthen our community connections and advance the field of research software!\nFor more information, visit https://rseaa.org.\n\nThe Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "",
+    "text": "25–28 août 2026\n(En ligne)\nS’inscrire"
+  },
+  {
+    "objectID": "fr/index.html#en-partenariat-avec-research-software-asia-australia-research-software-latinoamérica-et-equersa",
+    "href": "fr/index.html#en-partenariat-avec-research-software-asia-australia-research-software-latinoamérica-et-equersa",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "En partenariat avec Research Software Asia Australia, Research Software Latinoamérica et Equersa",
+    "text": "En partenariat avec Research Software Asia Australia, Research Software Latinoamérica et Equersa\nNous sommes heureux d’annoncer notre collaboration avec deux autres conférences : la bien établie Research Software Asia Australia (RSAA26) et la toute nouvelle Research Software Latinoamérica (RSLA26) !\nUn comité d’organisation conjoint a été constitué, tout en laissant à chaque co-président la liberté de décider du programme de son propre événement.\nDans ce cadre, nous avons fondé Equersa, une organisation faîtière chargée de coordonner les conférences et de présenter une interface unifiée aux bailleurs de fonds et partenaires à l’échelle mondiale."
+  },
+  {
+    "objectID": "fr/index.html#dates-importantes-provisoires",
+    "href": "fr/index.html#dates-importantes-provisoires",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Dates importantes (provisoires)",
+    "text": "Dates importantes (provisoires)\n\n\n\nÉlément\nOuverture\nClôture\n\n\n\n\nAppel à conférencier.es\n30 mars\n1er mai\n\n\nAppel aux boursiers accessibilité\n14 mai\n26 juin\n\n\nNotification d’acceptation\n7 juillet\n—\n\n\nAppel aux responsables de session\nDès que possible\n7 août\n\n\nAppel aux évaluateurs\nDès que possible\n15 mai\n\n\nMicro-subventions\n14 mai\n10 juillet\n\n\nBourses\n14 mai\n14 août\n\n\nInscriptions tarif réduit\n15 juin\n10 juillet\n\n\nInscriptions tarif standard\n11 juillet\n14 août\n\n\nConférence\n25 août\n28 août"
+  },
+  {
+    "objectID": "fr/index.html#appel-à-conférencier.es-speakers",
+    "href": "fr/index.html#appel-à-conférencier.es-speakers",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Appel à conférencier.es (speakers)",
+    "text": "Appel à conférencier.es (speakers)\nL’appel à speakers (CFP) pour RSAfrica26 sera annoncé très prochainement. Cette année, sous le thème « Le logiciel de recherche sans frontières », la conférence met à l’honneur la collaboration et l’engagement au sein de la communauté du logiciel de recherche.\nPour en savoir plus, consultez le document Appel à contributions dès sa mise en ligne."
+  },
+  {
+    "objectID": "fr/index.html#appel-à-ateliers",
+    "href": "fr/index.html#appel-à-ateliers",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Appel à ateliers",
+    "text": "Appel à ateliers\nNous recherchons des propositions d’ateliers pour le premier jour de RSAfrica26 (mardi 25 août 2026). Nous privilégions des sessions interactives, orientées vers la pratique : apprentissage par l’action, développement d’outils ou discussions collaboratives au sein de la communauté du logiciel de recherche."
+  },
+  {
+    "objectID": "fr/index.html#instructions-aux-auteurs",
+    "href": "fr/index.html#instructions-aux-auteurs",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Instructions aux auteurs",
+    "text": "Instructions aux auteurs\nMerci de l’intérêt que vous portez à RSAfrica26. Pour garantir une soumission et une présentation dans les meilleures conditions, consultez le document Instructions aux auteurs."
+  },
+  {
+    "objectID": "fr/index.html#accessibilité-et-inclusion",
+    "href": "fr/index.html#accessibilité-et-inclusion",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Accessibilité et inclusion",
+    "text": "Accessibilité et inclusion\nNous nous engageons à offrir un environnement sûr, accessible et inclusif à tout.es les participant.es.\nEn 2022, Liz Hare a publié un rapport détaillé sur l’accessibilité de la conférence, qui nous sert de référence pour évaluer et améliorer nos pratiques.\nDans cet esprit, nous proposons des bourses pour permettre aux salariés et aux étudiants de participer gratuitement, ainsi que 10 micro-subventions accessibilité d’une valeur de 50 $ AUD chacune, destinées à couvrir des frais tels que la connexion internet, un casque audio, la garde d’enfants, etc.\nL’attribution des bourses sera fondée sur la priorité accordée à l’inclusion et à la participation des personnes touchées par les effets cumulés de la discrimination liée à la race, au genre, au handicap, à l’identité de genre, à la situation financière, à l’intersectionnalité de ces discriminations, ou à tout autre facteur non listé ici.\nLes micro-subventions accessibilité seront attribuées selon les mêmes principes.\nNous encourageons toutes les personnes intéressées à candidater, même celles qui doutent de leur admissibilité cela nous permet de mieux cerner les besoins et d’optimiser la diversité et l’inclusion. Toutes les informations transmises resteront strictement confidentielles.\nIl vous sera demandé de rédiger un court paragraphe expliquant en quoi vous bénéficieriez de la bourse ou de la micro-subvention.\nTous les bénéficiaires de bourses et de micro-subventions accessibilité sont invités à soumettre un poster pour l’événement.\nSi vous estimez que la conférence ne tient pas ses engagements en matière d’accessibilité et d’inclusion, n’hésitez pas à nous le signaler en écrivant au comité d’organisation : info@rseaa.org.\nVous pouvez également candidater au programme de Boursier accessibilité. Ce programme vise à encourager les personnes en situation de handicap sourdes, malentendantes, aveugles, malvoyantes ou présentant tout autre type de handicap issues de notre communauté ou de communautés proches, à rejoindre RSAfrica26. Leur participation nous permet d’être tenus responsables de l’accessibilité réelle de cet événement en ligne."
+  },
+  {
+    "objectID": "fr/index.html#comité-dorganisation",
+    "href": "fr/index.html#comité-dorganisation",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Comité d’organisation",
+    "text": "Comité d’organisation\n\nPeculiar C. Umeh\nMichael Umeokoli\nKim Martin\nMaryblessing Okolie\nRowland Mosbergen\nIbimina Hart\nAmina Ezznafry\nRichard Dushime\nSeun Olufemi\nWachiou Baouraima\nGeoffrey Logovi\nIbsèn Bazie\nChristopher Lubega\nAhmed Unshur\nTosan Okome\nBernard Solodzi"
+  },
+  {
+    "objectID": "fr/index.html#rester-informée",
+    "href": "fr/index.html#rester-informée",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Rester informé(e)",
+    "text": "Rester informé(e)\nNous utilisons actuellement la liste de diffusion de RSAA, et nous sommes également présents sur LinkedIn :\n\nS’inscrire à la liste de diffusion RSAA\nNous suivre sur LinkedIn"
+  },
+  {
+    "objectID": "fr/index.html#code-de-conduite",
+    "href": "fr/index.html#code-de-conduite",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Code de conduite",
+    "text": "Code de conduite\nLe Code de conduite définit les règles de participation et de bonne conduite pour l’ensemble des participants."
+  },
+  {
+    "objectID": "fr/index.html#nous-contacter",
+    "href": "fr/index.html#nous-contacter",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Nous contacter",
+    "text": "Nous contacter\nPour toute question ou demande d’information, contactez le comité d’organisation par e-mail à info@rseaa.org."
+  },
+  {
+    "objectID": "fr/index.html#nos-sponsors",
+    "href": "fr/index.html#nos-sponsors",
+    "title": "Research Software Africa (RSAfrica26)",
+    "section": "Nos sponsors",
+    "text": "Nos sponsors\nNous remercions les organisations qui rendent cet événement possible.\n\nLe service Microsoft CMT a été utilisé pour gérer le processus d’évaluation par les collaborateurs de cette conférence. Ce service a été mis à disposition gratuitement par Microsoft, qui a pris en charge l’ensemble des coûts, y compris les services cloud Azure et le développement logiciel."
+  },
+  {
+    "objectID": "fr/call_for_presentations.html",
+    "href": "fr/call_for_presentations.html",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "",
+    "text": "Date de la conférence : 25 août 2026\nDans le cadre du Groupe mondial de conférences sur la recherche logiciel du Sud (Global South Research Software Group of Conferences)"
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#research-software-sans-frontières",
+    "href": "fr/call_for_presentations.html#research-software-sans-frontières",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "",
+    "text": "Date de la conférence : 25 août 2026\nDans le cadre du Groupe mondial de conférences sur la recherche logiciel du Sud (Global South Research Software Group of Conferences)"
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#à-propos-de-rsafrica26",
+    "href": "fr/call_for_presentations.html#à-propos-de-rsafrica26",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "À propos de RSAfrica26",
+    "text": "À propos de RSAfrica26\nLa Conférence Research Software Africa (RSAfrica26) rassemble toutes les personnes impliquées dans la création, l’utilisation, le soutien et la pérennisation du logiciel de recherche à travers l’Afrique.\nEn 2026, RSAfrica s’inscrit dans un ensemble coordonné de Conférences mondiales sur le logiciel de recherche du Sud, organisées simultanément en Asie, en Australie, en Nouvelle-Zélande, en Afrique et en Amérique latine. Ces événements créent un espace pour des échanges régionaux tout en favorisant un dialogue global partagé.\nLe thème de cette année, « Le logiciel de recherche sans frontières/Research Software Without borders», vise à abolir les barrières entre régions, institutions, disciplines et communautés, afin de construire un logiciel de recherche qui soit équitable, durable et piloté par la communauté.\nNous invitons toute personne impliquée dans le logiciel de recherche à contribuer : ingénieurs en logiciel de recherche (RSE), chercheurs, fournisseurs d’infrastructure, bibliothécaires, spécialistes des données, animateurs de communautés, étudiant.es et financeurs."
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#thématiques",
+    "href": "fr/call_for_presentations.html#thématiques",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Thématiques",
+    "text": "Thématiques\nNous accueillons des contributions en lien avec le thème de la conférence, notamment (sans s’y limiter) :\n\nÉquité, accès et savoirs\n\nAccès équitable aux logiciels et infrastructures de recherche\nSavoirs autochtones, locaux et ancrés dans les cultures\nSouveraineté des données, gouvernance et éthique du logiciel de recherche\nAccessibilité, multilinguisme et conception inclusive (ex. : obstacles pour les non-anglophones dans l’accès aux emplois et aux financements)\n\n\n\nInfrastructure et plateformes\n\nInfrastructure cloud, HPC et hybride pour la recherche\nPlateformes mutualisées et services régionaux\nInfrastructure ouverte, souveraine ou gérée par la communauté\nFaire plus avec des ressources limitées\n\n\n\nReproductibilité, FAIR et recherche ouverte\n\nFlux de travail reproductibles et bonnes pratiques de recherche\nDonnées et logiciels FAIR en pratique\nProvenance, métadonnées et intégrité de la recherche\nCollaboration ouverte et réutilisation\n\n\n\nCommunauté et collaboration\n\nConstruire et pérenniser des communautés RSE et logiciels de recherche\nGouvernance et leadership communautaire\nCollaborations inter-institutions et inter-régions\nRetours d’expérience issus de la pratique communautaire\n\n\n\nPlateformes de données et espaces de données\n\nPlateformes de données de recherche, communs et environnements partagés\nEspaces de données interopérables pour la collaboration inter-institutions et inter-régions\nSystèmes de données fédérés et environnements de recherche de confiance\nIntégration des plateformes de données avec les logiciels et flux de travail de recherche\n\n\n\nCompétences, formation et carrières\n\nEnseignement et apprentissage des compétences en logiciel de recherche\nParcours de carrière et reconnaissance des RSE\nMentorat, leadership et renforcement des capacités\nAccompagnement des praticiens en début de carrière\n\n\n\nIntelligence artificielle et outils émergents\n\nLogiciels et flux de travail de recherche assistés par IA\nUtilisation responsable et éthique de l’IA\nAutomatisation, agents et technologies émergentes\nExpériences concrètes et enseignements tirés\n\n\n\nDurabilité et impact\n\nPérenniser le logiciel de recherche au-delà des cycles de financement\nModèles de maintenance, de soutien et de gestion\nInformatique écologiquement responsable\nMesurer et communiquer l’impact"
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#formats-de-présentation",
+    "href": "fr/call_for_presentations.html#formats-de-présentation",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Formats de présentation",
+    "text": "Formats de présentation\nLors de votre soumission, veuillez choisir l’un des formats suivants :\n\nPrésentation éclair/Lightning talks – 5 minutes\nUne intervention courte pour partager une idée nouvelle, des travaux en cours, des leçons apprises ou une étude de cas rapide.\n\n\nDémonstration – 10 minutes\nUne démonstration pratique d’un outil, d’un flux de travail, d’une plateforme ou d’une technique, axée sur l’usage concret.\n\n\nPrésentation standard – 15 minutes\nUne présentation classique permettant d’explorer un sujet en profondeur.\n\n\nFormat libre\nSi votre proposition ne correspond pas aux formats ci-dessus, vous êtes libre de suggérer une alternative (atelier, table ronde, discussion animée, etc.).\n\nNote : Les formats non oraux, comme les posters, ne sont pas inclus dans cet appel à contributions.\n\nNous encourageons particulièrement les primo-intervenants, les praticiens en début de carrière et les soumissions orientées communauté."
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#consignes-de-soumission",
+    "href": "fr/call_for_presentations.html#consignes-de-soumission",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Consignes de soumission",
+    "text": "Consignes de soumission\nVotre dossier de soumission doit comprendre :\n\nTitre de votre présentation\nFormat choisi (parmi les options ci-dessus)\nRésumé (environ 150 à 300 mots)\nObjectifs pédagogiques (3 à 5 points clés pour le public)\nInformations sur le.s présentateur.s (nom, affiliation, biographie de 150 mots maximum et coordonnées)\n\nVotre soumission doit clairement indiquer ce que les participants retiendront et en quoi elle est reliée à la pratique du research software ou à la vie des communautés.\nIl n’est pas nécessaire d’avoir un projet finalisé. Les travaux en cours, les retours d’expérience et les réflexions honnêtes sont les bienvenus."
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#processus-dévaluation",
+    "href": "fr/call_for_presentations.html#processus-dévaluation",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Processus d’évaluation",
+    "text": "Processus d’évaluation\nLes soumissions seront évaluées selon les critères suivants :\n\nPertinence par rapport au thème de RSAfrica26\nClarté et cohérence du résumé\nApplicabilité pratique et impact potentiel\nAdéquation avec les centres d’intérêt de la communauté du logiciel de recherche\nDiversité des profils des intervenants\n\nLes interventions de débutant(e)s, de RSE en début de carrière et celles portant sur des sujets fondamentaux sont encouragées. La conférence valorise les perspectives diverses et cherche à abaisser les barrières à l’entrée pour les nouveaux intervenants."
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#calendrier",
+    "href": "fr/call_for_presentations.html#calendrier",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Calendrier",
+    "text": "Calendrier\n\nOuverture de l’appel à contributions : À confirmer\nDate limite de soumission : 1er mai 2026\nNotification d’acceptation : 7 juillet 2026"
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#code-de-conduite",
+    "href": "fr/call_for_presentations.html#code-de-conduite",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Code de conduite",
+    "text": "Code de conduite\nRSAfrica s’engage à offrir un environnement de conférence accueillant, inclusif et respectueux. Tous les participants sont tenus de respecter le Code de conduite de RSEAA."
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#pourquoi-soumettre-à-rsafrica26",
+    "href": "fr/call_for_presentations.html#pourquoi-soumettre-à-rsafrica26",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Pourquoi soumettre à RSAfrica26 ?",
+    "text": "Pourquoi soumettre à RSAfrica26 ?\n\nFaire partie d’un réseau mondial de conférences connectées\nPartager vos travaux avec un public bienveillant et ancré dans la communauté\nApprendre des praticiens du logiciel de recherche de différentes régions\nContribuer à façonner l’avenir du logiciel de recherche dans le Sud global"
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#diversité-et-inclusion",
+    "href": "fr/call_for_presentations.html#diversité-et-inclusion",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Diversité et inclusion",
+    "text": "Diversité et inclusion\nNous encourageons les soumissions de personnes de tous horizons, disciplines et niveaux de carrière. RSA26 s’engage à créer un environnement inclusif qui valorise la diversité des perspectives et des expériences.\nLa conférence promeut activement l’accessibilité numérique. Nous encourageons les présentateurs à :\n\nUtiliser des diapositives lisibles avec un contraste élevé.\nAjouter un texte alternatif (alt text) pour les images, graphiques et figures.\nSous-titrer les vidéos pour en améliorer l’accessibilité.\nÉviter de transmettre une information importante uniquement par la couleur."
+  },
+  {
+    "objectID": "fr/call_for_presentations.html#soumission-et-contact",
+    "href": "fr/call_for_presentations.html#soumission-et-contact",
+    "title": "Appel à conférencier.es – RSAfrica26",
+    "section": "Soumission et contact",
+    "text": "Soumission et contact\nDéposez votre proposition via le système de soumission en ligne de RSAfrica26 à lien de soumission / À confirmer. (Pour créer votre compte sur la plateforme, rendez-vous sur ce lien d’inscription. Note : toutes les informations de profil externe sur le formulaire d’inscription sont facultatives.)\nPour toute question, contactez le Comité organisateur de RSAfrica26 à info@rseaa.org.\nSoumettre une présentation pour RSAfrica26\nNous nous réjouissons de votre participation à RSAfrica26, et de construire ensemble des liens plus forts au sein de notre communauté pour faire avancer le domaine du logiciel de recherche !\nPour plus d’informations, rendez-vous sur https://rseaa.org.\n\nLe service Microsoft CMT a été utilisé pour gérer le processus d’évaluation par les pairs de cette conférence. Ce service a été mis à disposition gratuitement par Microsoft, qui a pris en charge l’ensemble des coûts, y compris les services cloud Azure et le développement logiciel."
   }
 ]
